@@ -1,7 +1,7 @@
 """
 Teste basico para validar que a aplicacao Flask sobe corretamente.
 A partir da Aula 09 (testes automatizados) este arquivo sera expandido
-com testes de produtos, pedidos e estoque.
+com testes de produtos, pedidos e estoque e etc.
 """
 from src.app import create_app
 
