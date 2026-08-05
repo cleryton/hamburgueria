@@ -2,6 +2,11 @@
 
 Sistema para gerenciar cardápio, estoque e pedidos de uma hamburgueria, integrando cozinha e geração automática de relatórios gerenciais.
 
+Feito por:
+Guilherme Granemann Benvenutti
+Gabriel Bielick
+Cleryton Kaike Chagas
+
 ## Tecnologias
 
 - Python 3.12 + Flask
